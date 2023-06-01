@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Prayer App</string>
+    <string name="version">12451000</string>
+
+    <string-array name="prayerTimesCalculationMethod">
+
+        <item>0 - Shia Ithna-Ansari, Leva Institute, Qum</item>
+        <item>1 - University of Islamic Sciences, Karachi</item>
+        <item>2 - Islamic Society of North America (ISNA)</item>
+        <item>3 - Muslim World League</item>
+        <item>4 - Umm Al-Qura University, Makkah</item>
+        <item>5 - Egyptian General Authority of Survey</item>
+        <item>6 - Islamic Society of North America</item>
+        <item>7 - Institute of Geophysics, University of Tehran</item>
+        <item>8 - Gulf Region</item>
+        <item>9 - Kuwait</item>
+        <item>10 - Qatar</item>
+        <item>11 - Majlis Ugama Islam Singapura, Singapore</item>
+        <item>12 - Union Organization islamic de France</item>
+        <item>13 - Diyanet İşleri Başkanlığı, Turkey</item>
+        <item>14 - Spiritual Administration of Muslims of Russia</item>
+        <item>15 - Moonsighting Committee Worldwide (Moonsighting.com)</item>
+        <item>16 - Dubai (experimental)</item>
+    </string-array>
+    <string name="title_activity_qibla">QiblaActivity</string>
+    <string name="prayer_app_text">Prayer App</string>
+    <string name="ignore">ignore</string>
+    <string name="time_left">time left :</string>
+    <string name="next_prayer">Next prayer</string>
+    <string name="_2_islamic_society_of_north_america">2 - Islamic Society of North America</string>
+    <string name="show_qibla_direction_on_map">Show Qibla Direction On Map</string>
+    <string name="_20_22">20:22</string>
+    <string name="fajr">Fajr</string>
+
+</resources>
