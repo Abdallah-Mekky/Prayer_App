@@ -54,6 +54,22 @@ https://github.com/Abdallah-Mekky/News_App_Updated_Version/assets/80880411/15366
 # Background tasks
 * [Kotlin Coroutines](https://bit.ly/3Kq3ec3) - A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
 
+# Code Architecture
+* [MVVM Architecture Pattern](https://developer.android.com/jetpack/guide)
+
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/86564639/166422026-4a5f4f9b-44b6-44c7-b4c6-852be532b41f.png">
+</p>
+
+* [Clean Architecture](https://developer.android.com/topic/architecture)
+
+
+<p align="center">
+
+![http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/](https://github.com/android10/Sample-Data/blob/master/Android-CleanArchitecture/clean_architecture.png)
+</p>
+
 # API
 * [Al-Adhan](https://aladhan.com/)
 
