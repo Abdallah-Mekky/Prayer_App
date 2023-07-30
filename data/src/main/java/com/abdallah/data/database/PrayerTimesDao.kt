@@ -15,4 +15,7 @@ interface PrayerTimesDao {
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun updatePrayerTimes(prayerTimesList: List<DataItem?>?)
+
+    @Query("delete from DataItem")
+    suspend fun deletePrayerTimes()
 }

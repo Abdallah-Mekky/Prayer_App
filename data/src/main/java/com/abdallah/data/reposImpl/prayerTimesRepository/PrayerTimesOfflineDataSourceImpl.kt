@@ -26,6 +26,7 @@ class PrayerTimesOfflineDataSourceImpl @Inject constructor(private val myDataBas
             val result = prayerTimesList?.map {
                 it?.toDataItem()
             }
+            myDataBase.getPrayerTimesDao().deletePrayerTimes()
             myDataBase.getPrayerTimesDao().updatePrayerTimes(result)
         } catch (ex: Exception) {
             throw ex
